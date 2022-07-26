@@ -55,6 +55,6 @@ roslaunch robot_arm_pkg check_motors.launch
 ```
 
 ## ○ Robot Arm View🔎: 
-<img src="" width="500">
+<img src="RobotArm.png" width="550">
 
 
