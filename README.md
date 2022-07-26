@@ -21,7 +21,7 @@ cd ~/catkin_ws/ <br /> //go to the workspace
 
 cd ~/catkin_ws/src
 
-git clone https://github.com/smart-methods/arduino_robot_arm.git **
+git clone https://github.com/smart-methods/arduino_robot_arm.git 
 
 cd ~/catkin_ws  //go back to workspace
 
